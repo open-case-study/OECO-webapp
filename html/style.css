@@ -1,0 +1,66 @@
+body{
+  background-color:rgb(240,240,240);
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+div.header{
+  max-width:700px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("logo_OECO.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width:700px;
+  height: 300px;
+}
+
+div.options{
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.note{
+
+}
+
+div.options a{
+  display: block;
+  padding:15px;
+  padding-left: 100px;
+  font-size: 20pt;
+  border-radius: 10px;
+  margin:30px;
+  margin-bottom: 40px;
+}
+
+div.options a:nth-child(1){
+  background-image: url(upload.png);
+  background-repeat: no-repeat;
+  background-size: 40px;
+  background-position: left 30px bottom 15px;
+  background-origin: border-box;
+  background-color: #4FB33B;
+  display: block;
+}
+
+div.options a:nth-child(2){
+  background-image: url(search.png);
+  background-repeat: no-repeat;
+  background-size: 40px;
+  background-position: left 30px bottom 15px;
+  background-origin: border-box;
+  background-color: #FF9354;
+  display: block;
+}
+
+div.options a:nth-child(3){
+  background-image: url(api.png);
+  background-repeat: no-repeat;
+  background-size: 40px;
+  background-position: left 30px bottom 20px;
+  background-origin: border-box;
+  background-color: #7776FF;
+  display: block;
+}

@@ -7,91 +7,91 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="229.60916"
-   inkscape:export-xdpi="229.60916"
-   inkscape:export-filename="/home/nikola/Downloads/OECO.png"
-   sodipodi:docname="logo_OECO.svg"
-   inkscape:version="1.0beta2 (unknown)"
-   version="1.1"
-   id="svg2"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="210mm"
    height="297mm"
-   width="210mm">
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.0beta2 (unknown)"
+   sodipodi:docname="logo_OECO.svg"
+   inkscape:export-filename="/home/nikola/Downloads/OECO.png"
+   inkscape:export-xdpi="229.60916"
+   inkscape:export-ydpi="229.60916">
   <defs
      id="defs4">
     <rect
-       id="rect878"
-       height="274.10376"
-       width="559.77467"
+       x="-26.317888"
        y="7.381501"
-       x="-26.317888" />
+       width="559.77467"
+       height="274.10376"
+       id="rect878" />
     <inkscape:path-effect
-       fuse_tolerance="0"
-       vertical_pattern="false"
-       prop_units="false"
-       tang_offset="0"
-       normal_offset="0"
-       spacing="0"
-       scale_y_rel="false"
-       prop_scale="1"
-       copytype="single_stretched"
-       pattern="M 0,0 1,0"
-       is_visible="true"
+       effect="skeletal"
        id="path-effect4658"
-       effect="skeletal" />
+       is_visible="true"
+       pattern="M 0,0 1,0"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
     <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="Arrow2Mstart"
-       refX="0.0"
-       refY="0.0"
+       inkscape:stockid="Arrow2Mstart"
        orient="auto"
-       inkscape:stockid="Arrow2Mstart">
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
       <path
-         transform="scale(0.6) translate(0,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         id="path4168"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         id="path4168" />
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
     </marker>
     <marker
-       inkscape:isstock="true"
-       style="overflow:visible;"
-       id="Arrow2Mend"
-       refX="0.0"
-       refY="0.0"
+       inkscape:stockid="Arrow2Mend"
        orient="auto"
-       inkscape:stockid="Arrow2Mend">
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
       <path
-         transform="scale(0.6) rotate(180) translate(0,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         id="path4171"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         id="path4171" />
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
     </marker>
   </defs>
   <sodipodi:namedview
-     inkscape:document-rotation="0"
-     showguides="false"
-     inkscape:snap-nodes="false"
-     inkscape:window-maximized="0"
-     inkscape:window-y="130"
-     inkscape:window-x="56"
-     inkscape:window-height="752"
-     inkscape:window-width="1737"
-     showgrid="false"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="px"
-     inkscape:cy="214.08524"
-     inkscape:cx="426.67782"
-     inkscape:zoom="0.96592603"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base">
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.96592603"
+     inkscape:cx="221.17554"
+     inkscape:cy="214.08524"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1737"
+     inkscape:window-height="752"
+     inkscape:window-x="56"
+     inkscape:window-y="130"
+     inkscape:window-maximized="0"
+     inkscape:snap-nodes="false"
+     showguides="false"
+     inkscape:document-rotation="0">
     <inkscape:grid
-       id="grid4136"
-       type="xygrid" />
+       type="xygrid"
+       id="grid4136" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -106,119 +106,221 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <rect
-       rx="0"
-       inkscape:export-ydpi="230.41956"
-       inkscape:export-xdpi="230.41956"
-       ry="0"
-       y="141.33177"
-       x="152.80017"
-       height="89.996078"
-       width="301.64206"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2.15973;stroke-linecap:round;stroke-linejoin:round"
        id="rect874"
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:2.15973;stroke-linecap:round;stroke-linejoin:round" />
+       width="301.64206"
+       height="89.996078"
+       x="152.80017"
+       y="141.33177"
+       ry="0"
+       inkscape:export-xdpi="230.41956"
+       inkscape:export-ydpi="230.41956"
+       rx="0" />
+    <g
+       id="g4943"
+       transform="matrix(3.8680881,0,0,3.8680881,160.32424,-3837.3954)"
+       inkscape:export-filename="/home/nikola/Documents/Desktop/github/OECO-webapp/html/logo_OECO.png"
+       inkscape:export-xdpi="230.41956"
+       inkscape:export-ydpi="230.41956">
+      <g
+         id="g4945"
+         transform="matrix(0.77981,0,0,0.78862,2.9634,174.84)"
+         style="fill:#bdc3c7">
+        <path
+           id="path4947"
+           transform="translate(6,1088.4)"
+           d="M 17,4 A 5,5 0 1 1 7,4 5,5 0 1 1 17,4 Z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4949"
+           d="m 18,1096.4 c -1.277,0 -2.494,0.2 -3.594,0.7 -2.885,1.3 -4.9779,4 -5.3435,7.3 0,1.1 0.8329,2 1.9375,2 h 14 c 1.105,0 1.938,-0.9 1.938,-2 -0.366,-3.3 -2.459,-6 -5.344,-7.3 -1.1,-0.5 -2.317,-0.7 -3.594,-0.7 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4951"
+         transform="matrix(0.77981,0,0,0.78862,-7.0366,174.84)"
+         style="fill:#7f8c8d">
+        <path
+           id="path4953"
+           transform="translate(6,1088.4)"
+           d="M 17,4 A 5,5 0 1 1 7,4 5,5 0 1 1 17,4 Z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4955"
+           d="m 18,1096.4 c -1.277,0 -2.494,0.2 -3.594,0.7 -2.885,1.3 -4.9779,4 -5.3435,7.3 0,1.1 0.8329,2 1.9375,2 h 14 c 1.105,0 1.938,-0.9 1.938,-2 -0.366,-3.3 -2.459,-6 -5.344,-7.3 -1.1,-0.5 -2.317,-0.7 -3.594,-0.7 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         id="path4957"
+         d="m 8.4062,1041.1 c -2.8856,1.3 -4.9781,4 -5.3437,7.3 0,1.1 0.8329,2 1.9375,2 h 14 c 1.105,0 1.938,-0.9 1.938,-2 -0.366,-3.3 -2.459,-6 -5.344,-7.3 -0.649,1.3 -2.011,2.3 -3.594,2.3 -1.583,0 -2.9453,-1 -3.5938,-2.3 z"
+         inkscape:connector-curvature="0"
+         style="fill:#2c3e50" />
+      <path
+         id="path4959"
+         transform="translate(0,1031.4)"
+         d="M 17,4 A 5,5 0 1 1 7,4 5,5 0 1 1 17,4 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#34495e" />
+      <path
+         id="path4961"
+         transform="translate(0,1028.4)"
+         d="m 12,11 c -1.277,0 -2.4943,0.269 -3.5938,0.75 -2.8856,1.262 -4.9781,3.997 -5.3437,7.25 0,1.105 0.8329,2 1.9375,2 h 14 c 1.105,0 1.938,-0.895 1.938,-2 C 20.572,15.747 18.479,13.012 15.594,11.75 14.494,11.269 13.277,11 12,11 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#34495e" />
+    </g>
+    <text
+       inkscape:export-filename="/home/nikola/Documents/Desktop/github/OECO-webapp/html/logo_OECO.png"
+       id="text1406"
+       y="196.92302"
+       x="256.02344"
+       style="font-style:normal;font-weight:normal;font-size:56.25px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#34495e;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"
+       inkscape:export-xdpi="230.41956"
+       inkscape:export-ydpi="230.41956"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#34495e;fill-opacity:1;stroke-width:0.9375"
+         y="196.92302"
+         x="256.02344"
+         id="tspan1404"
+         sodipodi:role="line">O E C O</tspan></text>
+    <text
+       inkscape:export-filename="/home/nikola/Documents/Desktop/github/OECO-webapp/html/logo_OECO.png"
+       id="text1410"
+       y="211.82878"
+       x="261.02844"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#7f8c8d;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"
+       inkscape:export-xdpi="230.41956"
+       inkscape:export-ydpi="230.41956"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#7f8c8d;fill-opacity:1;stroke-width:0.9375"
+         y="211.82878"
+         x="261.02844"
+         id="tspan1408"
+         sodipodi:role="line">Open European Case study Observatory</tspan></text>
+    <g
+       inkscape:export-filename="/home/nikola/Documents/Desktop/github/OECO-webapp/html/logo_OECO.png"
+       transform="translate(-57.561271,8.888029)"
+       id="g1418"
+       inkscape:export-xdpi="230.41956"
+       inkscape:export-ydpi="230.41956">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 261.87638,160.42141 c 0.16962,1.19729 0.30391,2.42426 0.2502,3.62862 0.67003,0.57886 1.54715,1.17863 2.50554,1.84216 0.0871,0.0604 0.17543,0.1227 0.26363,0.18489 0.0226,-0.16227 0.0397,-0.32568 0.069,-0.48683 0.19818,-1.09198 0.32158,-2.0908 0.34448,-3.1408 -1.28395,-0.18025 -2.09506,-2.41794 -3.43298,-2.02748 z m 3.34775,-3.30238 c 0.1243,-0.94741 0.78175,-2.02657 0.51694,-2.98262 -0.49518,-0.6942 -1.22486,0.13358 -1.71904,0 -0.97451,-0.26307 -0.72078,-0.88716 -1.77445,-1.05353 -0.91076,-0.14376 -1.16436,-0.22193 -0.94271,1.88527 0.0664,0.63201 0.11252,1.23701 0.15889,1.83693 0.53447,-0.17599 1.05621,-0.25402 1.50474,-0.22872 0.8897,0.0502 1.63125,0.25515 2.25563,0.54267 z m -2.61114,45.2074 c -1.67182,1.25747 -3.62581,2.01745 -5.63335,2.54824 2.48378,-0.31707 4.2947,-0.99968 5.64197,-1.72328 -2.8e-4,-0.27296 -0.005,-0.54945 -0.009,-0.82496 z m 0.008,0.82496 c 0.002,1.95666 -0.0811,3.85423 -0.31862,5.66034 1.94083,-1.82986 2.05179,-2.38412 1.83014,-5.60055 -0.0228,-0.32879 -0.0365,-0.64981 -0.0455,-0.9673 -0.0117,-0.40117 -0.011,-0.79499 -0.002,-1.18457 0.0342,-1.40791 0.20087,-2.7638 0.49065,-4.22529 0.18334,-0.92334 0.19408,-2.01051 0.15577,-3.11649 -0.74692,-0.54168 -1.65797,-0.99882 -2.55742,-1.49329 0.0701,1.54333 0.15267,3.10066 0.23903,4.72089 0.0973,1.82477 0.17628,3.62381 0.19903,5.38116 0.004,0.27565 0.008,0.55214 0.009,0.8251 z m -0.6525,-19.04766 c 0,0.0107 0.001,0.0211 0.001,0.0322 0,1.67366 0.0294,3.27509 0.0787,4.85644 0.58465,0.54055 1.3713,1.10895 2.30581,1.79778 0.0811,0.0598 0.16341,0.12284 0.24526,0.18574 -0.0134,-0.33148 -0.0235,-0.65575 -0.0235,-0.96236 0,-1.26796 0.006,-2.00076 0.41559,-3.0533 0.24172,-0.62126 1.30359,-1.9927 -0.0331,-2.25619 -0.15111,0.25105 -0.41856,0.36201 -0.55398,0.61546 -0.28652,-1.04618 0.15097,-2.4654 0.0608,-3.56826 -0.0127,-0.15676 -0.0257,-0.31113 -0.0382,-0.46407 -0.0903,-1.1163 -0.15323,-2.14113 0.0312,-3.25884 0.003,-0.0161 0.004,-0.0318 0.007,-0.0478 0.17966,-1.04929 0.49899,-1.88541 0.39057,-3.16073 -0.037,-0.43538 0.44117,-0.77619 0.38576,-1.38629 -0.0705,-0.77322 -0.60981,0 -0.50422,-1.38628 0.031,-0.40485 0.24893,-0.89988 0.25176,-1.33087 0.002,-0.27254 -0.0383,-0.5496 -0.0811,-0.82637 -0.72163,-0.69039 -1.5463,-1.16945 -2.16177,-1.55818 -0.22716,-0.14362 -0.46351,-0.30844 -0.70297,-0.48584 0.15521,3.257 0.70099,6.58609 0.0376,6.7519 -0.52302,-0.098 -0.44627,-0.81351 -0.99812,-0.99812 -1.27546,0.38802 -0.97127,0.92136 -0.6101,1.82986 0.32696,0.82298 0.11097,1.49725 0.61038,2.38426 0.35636,0.633 0.77576,1.44184 0.60854,2.78134 -0.004,0.03 -0.003,0.0598 -0.006,0.0898 -0.11096,1.10823 0.27579,2.20997 0.28286,3.41871 z m 2.93936,-14.21355 c 0.88136,0.84347 1.60893,2.00274 1.60893,3.70976 0,2.21916 -0.90751,3.36019 -2.05844,4.42842 -0.18447,1.11757 -0.12142,2.1424 -0.0312,3.25884 0.51567,-0.49362 1.01183,-0.9379 1.42417,-1.31038 1.71904,-1.55252 3.44726,-4.04803 3.49349,-6.98697 0.0533,-3.40627 -2.34299,-5.43375 -4.44949,-6.91277 -0.0883,-0.062 -0.17669,-0.12467 -0.26377,-0.18503 -0.9584,-0.66339 -1.83537,-1.26331 -2.50427,-1.84244 -0.72827,-0.6306 -1.20888,-1.23687 -1.2667,-1.87298 -0.065,-0.71328 0.31014,-1.50969 1.01508,-1.7548 0.11521,-0.0402 0.23861,-0.0673 0.37135,-0.0751 0.5896,-0.0348 1.70264,1.62362 3.06164,2.1024 0.29925,0.10545 0.61052,0.15591 0.93083,0.11577 0.60529,-0.0758 0.62615,-0.1125 0.62615,-1.05507 0.60982,0.0554 1.08851,0.64386 1.1483,-0.88576 0.0338,-0.8651 -0.65179,-2.52039 -2.79038,-3.50508 -0.62437,-0.28752 -1.36593,-0.49263 -2.25562,-0.54281 -0.44853,-0.0253 -0.97013,0.0529 -1.50474,0.22872 -1.70929,0.56274 -3.55456,2.15625 -3.59682,4.81743 -0.0355,2.2258 2.19866,4.75722 4.17694,6.22379 0.23932,0.1774 0.47567,0.34223 0.70297,0.48584 0.61532,0.38874 1.44,0.86779 2.16162,1.55818 z m -0.17613,23.82749 c 3.27046,2.21909 1.27736,5.15849 -0.64628,7.34164 -0.009,0.38958 -0.01,0.7834 0.002,1.18457 0.67059,-0.47552 1.16619,-0.9085 1.54276,-1.19531 1.16436,-0.8873 3.0358,-2.90918 2.77243,-4.76867 -0.4016,-2.85446 -2.1896,-4.09367 -4.04803,-5.48958 -0.93437,-0.68883 -1.72116,-1.25723 -2.30581,-1.79777 -0.7335,-0.67852 -1.14852,-1.31264 -1.13226,-2.08403 0.0199,-0.93507 0.44301,-1.89092 1.05226,-2.80465 -0.007,-1.20874 -0.39382,-2.31048 -0.28314,-3.41857 -1.84782,1.97461 -3.39807,4.09694 -3.32004,6.72235 0.0761,2.55771 1.91128,3.7731 3.80899,4.81673 0.89945,0.49433 1.8105,0.95161 2.55742,1.49329 z"
+         style="fill:none;stroke:#ffffff;stroke-width:0.706783;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="trace" />
+      <ellipse
+         style="fill:#ffffff;stroke-width:0.141357"
+         cx="265.51913"
+         cy="159.01491"
+         rx="0.58238924"
+         ry="0.61490124"
+         id="eye" />
+    </g>
+    <text
+       xml:space="preserve"
+       id="text876"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:37.5000001px;line-height:1.25;letter-spacing:0px;word-spacing:0px;shape-inside:url(#rect878);white-space:pre;" />
     <g
        inkscape:export-ydpi="230.41956"
        inkscape:export-xdpi="230.41956"
-       inkscape:export-filename="/home/nikola/Documents/Desktop/newarc/arc_v3_0_overview.png"
-       transform="matrix(3.8680881,0,0,3.8680881,160.32424,-3837.3954)"
-       id="g4943">
+       inkscape:export-filename="/home/nikola/Documents/Desktop/github/OECO-webapp/html/logo_OECO.png"
+       transform="matrix(3.8680881,0,0,3.8680881,177.08413,-3661.5874)"
+       id="g895">
       <g
          style="fill:#bdc3c7"
          transform="matrix(0.77981,0,0,0.78862,2.9634,174.84)"
-         id="g4945">
+         id="g881">
         <path
            inkscape:connector-curvature="0"
            d="M 17,4 A 5,5 0 1 1 7,4 5,5 0 1 1 17,4 Z"
            transform="translate(6,1088.4)"
-           id="path4947" />
+           id="path877" />
         <path
            inkscape:connector-curvature="0"
            d="m 18,1096.4 c -1.277,0 -2.494,0.2 -3.594,0.7 -2.885,1.3 -4.9779,4 -5.3435,7.3 0,1.1 0.8329,2 1.9375,2 h 14 c 1.105,0 1.938,-0.9 1.938,-2 -0.366,-3.3 -2.459,-6 -5.344,-7.3 -1.1,-0.5 -2.317,-0.7 -3.594,-0.7 z"
-           id="path4949" />
+           id="path879" />
       </g>
       <g
          style="fill:#7f8c8d"
          transform="matrix(0.77981,0,0,0.78862,-7.0366,174.84)"
-         id="g4951">
+         id="g887">
         <path
            inkscape:connector-curvature="0"
            d="M 17,4 A 5,5 0 1 1 7,4 5,5 0 1 1 17,4 Z"
            transform="translate(6,1088.4)"
-           id="path4953" />
+           id="path883" />
         <path
            inkscape:connector-curvature="0"
            d="m 18,1096.4 c -1.277,0 -2.494,0.2 -3.594,0.7 -2.885,1.3 -4.9779,4 -5.3435,7.3 0,1.1 0.8329,2 1.9375,2 h 14 c 1.105,0 1.938,-0.9 1.938,-2 -0.366,-3.3 -2.459,-6 -5.344,-7.3 -1.1,-0.5 -2.317,-0.7 -3.594,-0.7 z"
-           id="path4955" />
+           id="path885" />
       </g>
       <path
          style="fill:#2c3e50"
          inkscape:connector-curvature="0"
          d="m 8.4062,1041.1 c -2.8856,1.3 -4.9781,4 -5.3437,7.3 0,1.1 0.8329,2 1.9375,2 h 14 c 1.105,0 1.938,-0.9 1.938,-2 -0.366,-3.3 -2.459,-6 -5.344,-7.3 -0.649,1.3 -2.011,2.3 -3.594,2.3 -1.583,0 -2.9453,-1 -3.5938,-2.3 z"
-         id="path4957" />
+         id="path889" />
       <path
          style="fill:#34495e"
          inkscape:connector-curvature="0"
          d="M 17,4 A 5,5 0 1 1 7,4 5,5 0 1 1 17,4 Z"
          transform="translate(0,1031.4)"
-         id="path4959" />
+         id="path891" />
       <path
          style="fill:#34495e"
          inkscape:connector-curvature="0"
          d="m 12,11 c -1.277,0 -2.4943,0.269 -3.5938,0.75 -2.8856,1.262 -4.9781,3.997 -5.3437,7.25 0,1.105 0.8329,2 1.9375,2 h 14 c 1.105,0 1.938,-0.895 1.938,-2 C 20.572,15.747 18.479,13.012 15.594,11.75 14.494,11.269 13.277,11 12,11 Z"
          transform="translate(0,1028.4)"
-         id="path4961" />
+         id="path893" />
     </g>
     <text
        inkscape:export-ydpi="230.41956"
        inkscape:export-xdpi="230.41956"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:56.25px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#34495e;fill-opacity:1;stroke:none;stroke-width:0.9375"
-       x="256.02344"
-       y="196.92302"
-       id="text1406"><tspan
+       x="272.78333"
+       y="372.73105"
+       id="text899"
+       inkscape:export-filename="/home/nikola/Documents/Desktop/github/OECO-webapp/html/logo_OECO.png"><tspan
          sodipodi:role="line"
-         id="tspan1404"
-         x="256.02344"
-         y="196.92302"
+         id="tspan897"
+         x="272.78333"
+         y="372.73105"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#34495e;fill-opacity:1;stroke-width:0.9375">O E C O</tspan></text>
     <text
        inkscape:export-ydpi="230.41956"
        inkscape:export-xdpi="230.41956"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#7f8c8d;fill-opacity:1;stroke:none;stroke-width:0.9375"
-       x="261.02844"
-       y="211.82878"
-       id="text1410"><tspan
+       x="277.78833"
+       y="387.63681"
+       id="text903"
+       inkscape:export-filename="/home/nikola/Documents/Desktop/github/OECO-webapp/html/logo_OECO.png"><tspan
          sodipodi:role="line"
-         id="tspan1408"
-         x="261.02844"
-         y="211.82878"
+         id="tspan901"
+         x="277.78833"
+         y="387.63681"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#7f8c8d;fill-opacity:1;stroke-width:0.9375">Open European Case study Observatory</tspan></text>
     <g
        inkscape:export-ydpi="230.41956"
        inkscape:export-xdpi="230.41956"
-       id="g1418"
-       transform="translate(-57.561271,8.888029)">
+       id="g909"
+       transform="translate(-40.801383,184.69606)"
+       inkscape:export-filename="/home/nikola/Documents/Desktop/github/OECO-webapp/html/logo_OECO.png">
       <path
-         id="trace"
+         id="path905"
          style="fill:none;stroke:#ffffff;stroke-width:0.706783;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
          d="m 261.87638,160.42141 c 0.16962,1.19729 0.30391,2.42426 0.2502,3.62862 0.67003,0.57886 1.54715,1.17863 2.50554,1.84216 0.0871,0.0604 0.17543,0.1227 0.26363,0.18489 0.0226,-0.16227 0.0397,-0.32568 0.069,-0.48683 0.19818,-1.09198 0.32158,-2.0908 0.34448,-3.1408 -1.28395,-0.18025 -2.09506,-2.41794 -3.43298,-2.02748 z m 3.34775,-3.30238 c 0.1243,-0.94741 0.78175,-2.02657 0.51694,-2.98262 -0.49518,-0.6942 -1.22486,0.13358 -1.71904,0 -0.97451,-0.26307 -0.72078,-0.88716 -1.77445,-1.05353 -0.91076,-0.14376 -1.16436,-0.22193 -0.94271,1.88527 0.0664,0.63201 0.11252,1.23701 0.15889,1.83693 0.53447,-0.17599 1.05621,-0.25402 1.50474,-0.22872 0.8897,0.0502 1.63125,0.25515 2.25563,0.54267 z m -2.61114,45.2074 c -1.67182,1.25747 -3.62581,2.01745 -5.63335,2.54824 2.48378,-0.31707 4.2947,-0.99968 5.64197,-1.72328 -2.8e-4,-0.27296 -0.005,-0.54945 -0.009,-0.82496 z m 0.008,0.82496 c 0.002,1.95666 -0.0811,3.85423 -0.31862,5.66034 1.94083,-1.82986 2.05179,-2.38412 1.83014,-5.60055 -0.0228,-0.32879 -0.0365,-0.64981 -0.0455,-0.9673 -0.0117,-0.40117 -0.011,-0.79499 -0.002,-1.18457 0.0342,-1.40791 0.20087,-2.7638 0.49065,-4.22529 0.18334,-0.92334 0.19408,-2.01051 0.15577,-3.11649 -0.74692,-0.54168 -1.65797,-0.99882 -2.55742,-1.49329 0.0701,1.54333 0.15267,3.10066 0.23903,4.72089 0.0973,1.82477 0.17628,3.62381 0.19903,5.38116 0.004,0.27565 0.008,0.55214 0.009,0.8251 z m -0.6525,-19.04766 c 0,0.0107 0.001,0.0211 0.001,0.0322 0,1.67366 0.0294,3.27509 0.0787,4.85644 0.58465,0.54055 1.3713,1.10895 2.30581,1.79778 0.0811,0.0598 0.16341,0.12284 0.24526,0.18574 -0.0134,-0.33148 -0.0235,-0.65575 -0.0235,-0.96236 0,-1.26796 0.006,-2.00076 0.41559,-3.0533 0.24172,-0.62126 1.30359,-1.9927 -0.0331,-2.25619 -0.15111,0.25105 -0.41856,0.36201 -0.55398,0.61546 -0.28652,-1.04618 0.15097,-2.4654 0.0608,-3.56826 -0.0127,-0.15676 -0.0257,-0.31113 -0.0382,-0.46407 -0.0903,-1.1163 -0.15323,-2.14113 0.0312,-3.25884 0.003,-0.0161 0.004,-0.0318 0.007,-0.0478 0.17966,-1.04929 0.49899,-1.88541 0.39057,-3.16073 -0.037,-0.43538 0.44117,-0.77619 0.38576,-1.38629 -0.0705,-0.77322 -0.60981,0 -0.50422,-1.38628 0.031,-0.40485 0.24893,-0.89988 0.25176,-1.33087 0.002,-0.27254 -0.0383,-0.5496 -0.0811,-0.82637 -0.72163,-0.69039 -1.5463,-1.16945 -2.16177,-1.55818 -0.22716,-0.14362 -0.46351,-0.30844 -0.70297,-0.48584 0.15521,3.257 0.70099,6.58609 0.0376,6.7519 -0.52302,-0.098 -0.44627,-0.81351 -0.99812,-0.99812 -1.27546,0.38802 -0.97127,0.92136 -0.6101,1.82986 0.32696,0.82298 0.11097,1.49725 0.61038,2.38426 0.35636,0.633 0.77576,1.44184 0.60854,2.78134 -0.004,0.03 -0.003,0.0598 -0.006,0.0898 -0.11096,1.10823 0.27579,2.20997 0.28286,3.41871 z m 2.93936,-14.21355 c 0.88136,0.84347 1.60893,2.00274 1.60893,3.70976 0,2.21916 -0.90751,3.36019 -2.05844,4.42842 -0.18447,1.11757 -0.12142,2.1424 -0.0312,3.25884 0.51567,-0.49362 1.01183,-0.9379 1.42417,-1.31038 1.71904,-1.55252 3.44726,-4.04803 3.49349,-6.98697 0.0533,-3.40627 -2.34299,-5.43375 -4.44949,-6.91277 -0.0883,-0.062 -0.17669,-0.12467 -0.26377,-0.18503 -0.9584,-0.66339 -1.83537,-1.26331 -2.50427,-1.84244 -0.72827,-0.6306 -1.20888,-1.23687 -1.2667,-1.87298 -0.065,-0.71328 0.31014,-1.50969 1.01508,-1.7548 0.11521,-0.0402 0.23861,-0.0673 0.37135,-0.0751 0.5896,-0.0348 1.70264,1.62362 3.06164,2.1024 0.29925,0.10545 0.61052,0.15591 0.93083,0.11577 0.60529,-0.0758 0.62615,-0.1125 0.62615,-1.05507 0.60982,0.0554 1.08851,0.64386 1.1483,-0.88576 0.0338,-0.8651 -0.65179,-2.52039 -2.79038,-3.50508 -0.62437,-0.28752 -1.36593,-0.49263 -2.25562,-0.54281 -0.44853,-0.0253 -0.97013,0.0529 -1.50474,0.22872 -1.70929,0.56274 -3.55456,2.15625 -3.59682,4.81743 -0.0355,2.2258 2.19866,4.75722 4.17694,6.22379 0.23932,0.1774 0.47567,0.34223 0.70297,0.48584 0.61532,0.38874 1.44,0.86779 2.16162,1.55818 z m -0.17613,23.82749 c 3.27046,2.21909 1.27736,5.15849 -0.64628,7.34164 -0.009,0.38958 -0.01,0.7834 0.002,1.18457 0.67059,-0.47552 1.16619,-0.9085 1.54276,-1.19531 1.16436,-0.8873 3.0358,-2.90918 2.77243,-4.76867 -0.4016,-2.85446 -2.1896,-4.09367 -4.04803,-5.48958 -0.93437,-0.68883 -1.72116,-1.25723 -2.30581,-1.79777 -0.7335,-0.67852 -1.14852,-1.31264 -1.13226,-2.08403 0.0199,-0.93507 0.44301,-1.89092 1.05226,-2.80465 -0.007,-1.20874 -0.39382,-2.31048 -0.28314,-3.41857 -1.84782,1.97461 -3.39807,4.09694 -3.32004,6.72235 0.0761,2.55771 1.91128,3.7731 3.80899,4.81673 0.89945,0.49433 1.8105,0.95161 2.55742,1.49329 z"
          inkscape:connector-curvature="0" />
       <ellipse
-         id="eye"
+         id="ellipse907"
          ry="0.61490124"
          rx="0.58238924"
          cy="159.01491"
          cx="265.51913"
          style="fill:#ffffff;stroke-width:0.141357" />
     </g>
-    <text
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:37.5000001px;line-height:1.25;letter-spacing:0px;word-spacing:0px;shape-inside:url(#rect878);white-space:pre;"
-       id="text876"
-       xml:space="preserve" />
   </g>
 </svg>
