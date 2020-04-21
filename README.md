@@ -1,6 +1,8 @@
 Open European Case study Observatory - plan & front end
 =======================================================
 
+![OECO_logo](./design/logo_OECO.png)
+
 General project description on [devpost](https://devpost.com/software/open-european-case-study-observatory).
 
 Visual overview of the structure
