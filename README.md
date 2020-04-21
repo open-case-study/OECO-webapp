@@ -1,6 +1,13 @@
 Open European Case study Observatory - plan & front end
 =======================================================
 
+General project description on [devpost](https://devpost.com/software/open-european-case-study-observatory).
+
+Visual overview of the structure
+--------------------------------
+
+COMING SOON
+
 Input needed
 ------------
 
