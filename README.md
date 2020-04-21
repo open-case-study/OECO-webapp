@@ -39,4 +39,6 @@ Building blocks needed
 We need discrete inputs to ensure that data entered into the database is normalised (and hence machine searchable).
 
 * javascript for finding codes in International Classification of Disease (ICD10)
+ -- useful rest api: https://clinicaltables.nlm.nih.gov/apidoc/conditions/v3/doc.html (autocomplete search for conditions, including synonims, providing ICD10 and ICD9 codes)
 * javascript for finding normalised drug names
+  
