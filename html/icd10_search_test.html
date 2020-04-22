@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset=utf-8>
+  <title>OECO - Open European Case study Observatory</title>
+  <meta name="description" content="Under development for hackatron">
+  <meta name="keywords" content="Under development for hackatron"" />
+	<meta name=" theme-color" content="#F0F0F0" />
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="shortcut icon" type="image/x-icon" href="icon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, target-densityDpi=device-dpi">
+
+
+</head>
+
+<body>
+
+  <div class="note"><b>This webapp is in development for hackatron. It's not yet operational.</b></div>
+
+  <div class="header"></div>
+
+  <div class="options">
+    <link href='autocomplete-lhc.css' rel="stylesheet">
+    <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+    <script src='autocomplete-lhc.min.js'></script>
+    <!-- source : 'https://clinicaltables.nlm.nih.gov/autocomplete-lhc-versions/17.0.2/ -->
+    <div class="condition">
+      <h2>Condition:</h2>
+      <div id="selected_icd10"></div>
+      <div id="condition_selector" class="selector">
+        Condition search: <input type="text" id="icd10" placeholder="ICD10 code or name">
+      </div>
+    </div>
+
+    <h2>Therapy drugs:</h2>
+    <div>
+
+      <div class="therapy">
+        <div class="selected_drugs"></div>
+
+        <div id="drug_selector" class="selector">
+          <input type="text" id="quantity" placeholder="How many times">
+          <input type="text" id="rxterms" placeholder="Drug name">
+          <input type="text" id="drug_strengths" placeholder="Strength list">
+          <input id="add_drug" type="button" value="Add to therapy">
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var a = new Def.Autocompleter.Search('icd10', 'https://clinicaltables.nlm.nih.gov/api/icd10cm/v3/search?sf=code,name', {
+        tableFormat: true,
+        valueCols: [0],
+        colHeaders: ['Code', 'Name']
+      });
+      Def.Autocompleter.Event.observeListSelections('icd10', selectedCondition);
+      Def.Autocompleter.Event.observeCancelList('icd10', selectedCondition);
+
+
+      function selectedCondition(e) {
+        if (e.on_list) {
+          var code = e.item_code;
+          var i = 0;
+          while (e.list[i][0] != code) {
+            i += 1;
+          }
+          addCondition(code, e.list[i][1], e.field_id);
+          a.element.value = "";
+        }
+      }
+
+      function addCondition(code, name, field_id) {
+        var selectedList = document.getElementById("selected_" + field_id);
+        console.log(selectedList.childNodes);
+        for (i = 0; i < selectedList.childNodes.length; i += 1) {
+          if (selectedList.childNodes[i].dataset["icd10"] == code) {
+            return;
+          }
+        }
+
+        var d = document.createElement("div");
+        d.setAttribute("data-icd10", code);
+        d.className += " " + "condition";
+        d.innerHTML = "<b>" + code + " </b> " + name;
+        var s = document.createElement("span");
+        s.innerHTML = "remove";
+        s.addEventListener("click", removeCondition);
+        d.appendChild(s);
+        selectedList.append(d);
+      }
+
+      function removeCondition(e) {
+        d = e.target.parentNode;
+        d.parentNode.removeChild(d);
+      }
+
+      // Treatmant search - drugs
+
+
+      var drug_times = new Def.Autocompleter.Prefetch('quantity',
+        ["1 x", "2 x", "3 x", "4 x", "5 x", "6 x", "7 x", "8 x", "9 x", "10 x"], {
+          addSeqNum: false
+        });
+
+      var drug_dose = new Def.Autocompleter.Prefetch('drug_strengths', []);
+      var drug_name = new Def.Autocompleter.Search('rxterms',
+        'https://clinicaltables.nlm.nih.gov/api/rxterms/v3/search?ef=STRENGTHS_AND_FORMS');
+      Def.Autocompleter.Event.observeListSelections('rxterms', function() {
+        var drugField = $('#rxterms')[0];
+        var autocomp = drugField.autocomp;
+        var strengths =
+          autocomp.getSelectedItemData()[0].data['STRENGTHS_AND_FORMS'];
+        if (strengths)
+          $('#drug_strengths')[0].autocomp.setListAndField(strengths, '');
+      })
+
+      document.getElementById("add_drug").addEventListener("click", addDrug);
+
+      function addDrug(e) {
+        var selectedList = e.target.parentNode.parentNode.getElementsByClassName('selected_drugs')[0];
+
+        if (drug_times.getSelectedItems()[0] === undefined) return;
+        var times = drug_times.getSelectedItems()[0];
+        if (drug_name.getSelectedCodes()[0] === undefined) return;
+        var name = drug_name.getSelectedCodes()[0];
+        if (drug_dose.getSelectedItems()[0] === undefined) return;
+        var dose = drug_dose.getSelectedItems()[0];
+
+        drug_times.element.value = "";
+        drug_name.element.value = "";
+        drug_dose.element.value = "";
+
+        var d = document.createElement("div");
+        d.setAttribute("data-times", times);
+        d.setAttribute("data-name", name);
+        d.setAttribute("data-value", dose);
+        d.innerHTML = "<b>" + times + "</b> " + name + " <b>" + dose + "</b>";
+        d.className += " " + "drug";
+        var s = document.createElement("span");
+        s.innerHTML = "remove";
+        s.addEventListener("click", removeCondition);
+        d.appendChild(s);
+        selectedList.append(d);
+      }
+    </script>
+  </div>
+
+
+
+
+</body>
