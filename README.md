@@ -8,7 +8,10 @@ General project description on [devpost](https://devpost.com/software/open-europ
 Visual overview of the structure
 --------------------------------
 
-![OECO_overview](./design/overview.png)
+1. [Birth eye view of project](./design/overview.pdf)
+2. Front page sketch
+3. Submission sketch
+4. [Search case sketch](./design/overview_search_case.pdf)
 
 Input needed
 ------------
