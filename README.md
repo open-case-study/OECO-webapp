@@ -8,7 +8,7 @@ General project description on [devpost](https://devpost.com/software/open-europ
 Visual overview of the structure
 --------------------------------
 
-COMING SOON
+![OECO_overview](./design/overview.png)
 
 Input needed
 ------------
