@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="229.60899"
+   inkscape:export-xdpi="229.60899"
+   inkscape:export-filename="/home/nikola/Documents/Desktop/github/OECO-webapp/design/overview_serach_case.png"
+   sodipodi:docname="overview_search_case.svg"
+   inkscape:version="1.0beta2 (unknown)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1868"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1866"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1808"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1806" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1512"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1510"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <rect
+       id="rect1418"
+       height="99.27777"
+       width="58.829872"
+       y="151.64243"
+       x="115.6317" />
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1037" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-height="1016"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="542.43741"
+     inkscape:cx="303.24994"
+     inkscape:zoom="0.56023909"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       ry="0.74319869"
+       y="-0.075278908"
+       x="-0.2842432"
+       height="297.64349"
+       width="211.27498"
+       id="rect2178"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="2.49505"
+       y="155.94232"
+       x="19.391624"
+       height="11.916401"
+       width="66.15007"
+       id="rect958"
+       style="fill:#b7c4c8;fill-opacity:1;stroke:none;stroke-width:3.87101;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text844"
+       y="27.848057"
+       x="27.21735"
+       style="font-style:normal;font-weight:normal;font-size:4.58611111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.264583;"
+         y="27.848057"
+         x="27.21735"
+         id="tspan842"
+         sodipodi:role="line">Age:</tspan></text>
+    <text
+       id="text848"
+       y="37.025112"
+       x="26.532415"
+       style="font-style:normal;font-weight:normal;font-size:4.58611111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.264583;"
+         y="37.025112"
+         x="26.532415"
+         id="tspan846"
+         sodipodi:role="line">Existing conditions:</tspan></text>
+    <rect
+       ry="2.4950492"
+       y="22.845533"
+       x="43.179844"
+       height="8.5886059"
+       width="39.123974"
+       id="rect850"
+       style="fill:#ffccaa;stroke-width:0.668763;stroke-linecap:round;stroke-linejoin:round" />
+    <rect
+       ry="4.7683496"
+       y="38.993637"
+       x="25.920902"
+       height="40.499344"
+       width="56.737114"
+       id="rect852"
+       style="fill:#ffccaa;stroke-width:1.31997;stroke-linecap:round;stroke-linejoin:round" />
+    <text
+       id="text856"
+       y="46.055912"
+       x="30.125576"
+       style="font-style:normal;font-weight:normal;font-size:4.58611111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583;"
+         y="46.055912"
+         x="30.125576"
+         id="tspan854"
+         sodipodi:role="line">A2.12</tspan></text>
+    <text
+       id="text860"
+       y="54.342979"
+       x="30.307268"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="54.342979"
+         x="30.307268"
+         id="tspan858"
+         sodipodi:role="line">B3.13</tspan></text>
+    <text
+       id="text864"
+       y="28.63726"
+       x="58.624561"
+       style="font-style:normal;font-weight:normal;font-size:4.58611111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583;"
+         y="28.63726"
+         x="58.624561"
+         id="tspan862"
+         sodipodi:role="line">57</tspan></text>
+    <rect
+       ry="1.9164088"
+       y="17.235365"
+       x="21.032784"
+       height="108.92473"
+       width="66.828102"
+       id="rect866"
+       style="fill:none;stroke:#000000;stroke-width:3.96897;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="1.975341"
+       y="119.0208"
+       x="20.830721"
+       height="7.1106014"
+       width="67.001472"
+       id="rect870"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.9284;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       ry="3.8553212"
+       rx="3.9524021"
+       cy="122.72311"
+       cx="53.820507"
+       id="path872"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.87101;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text876"
+       y="46.017094"
+       x="46.731323"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="46.017094"
+         x="46.731323"
+         id="tspan874"
+         sodipodi:role="line">diag.1</tspan></text>
+    <text
+       id="text880"
+       y="54.076626"
+       x="46.03038"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="54.076626"
+         x="46.03038"
+         id="tspan878"
+         sodipodi:role="line">diag. 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="26.234535"
+       y="164.89565"
+       id="text888"><tspan
+         sodipodi:role="line"
+         id="tspan886"
+         x="26.234535"
+         y="164.89565"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583">54-60 years, A2.12 B3.13</tspan></text>
+    <rect
+       style="fill:#ffccaa;stroke-width:0.438669;stroke-linecap:round;stroke-linejoin:round"
+       id="rect892"
+       width="40.204628"
+       height="6.3122563"
+       x="22.89505"
+       y="175.62581"
+       ry="0.74319834" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3.96897;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect906"
+       width="66.828102"
+       height="108.92473"
+       x="19.391626"
+       y="155.94232"
+       ry="1.9164088" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.9284;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect908"
+       width="67.001472"
+       height="7.1106014"
+       x="19.189566"
+       y="257.72775"
+       ry="1.975341" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.87101;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse910"
+       cx="52.179348"
+       cy="261.43005"
+       rx="3.9524021"
+       ry="3.8553212" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="24.647171"
+       y="181.03979"
+       id="text914"><tspan
+         sodipodi:role="line"
+         id="tspan912"
+         x="24.647171"
+         y="181.03979"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583">40%  Azitromicin</tspan></text>
+    <text
+       id="text962"
+       y="232.08609"
+       x="24.909231"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="232.08609"
+         x="24.909231"
+         id="tspan960"
+         sodipodi:role="line">hospital time |<tspan
+   id="tspan1006"
+   style="font-weight:bold"> <tspan
+   id="tspan2056"
+   style="fill:#162d50">ICU time</tspan></tspan></tspan></text>
+    <text
+       id="text966"
+       y="203.31403"
+       x="22.903816"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;fill:#162d50;stroke-width:0.264583"
+         y="203.31403"
+         x="22.903816"
+         id="tspan964"
+         sodipodi:role="line">Common complications</tspan></text>
+    <text
+       id="text970"
+       y="173.62482"
+       x="22.387745"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;fill:#162d50;stroke-width:0.264583"
+         y="173.62482"
+         x="22.387745"
+         id="tspan968"
+         sodipodi:role="line">Treatmants </tspan></text>
+    <text
+       id="text974"
+       y="254.26184"
+       x="24.255497"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="254.26184"
+         x="24.255497"
+         id="tspan972"
+         sodipodi:role="line">avr:13d   avg. survival:80%</tspan></text>
+    <text
+       id="text998"
+       y="173.41475"
+       x="63.452686"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="173.41475"
+         x="63.452686"
+         id="tspan996"
+         sodipodi:role="line">Survival:</tspan></text>
+    <rect
+       ry="0.74319834"
+       y="183.5632"
+       x="22.89505"
+       height="6.3122563"
+       width="40.204628"
+       id="rect1000"
+       style="fill:#ffccaa;stroke-width:0.438669;stroke-linecap:round;stroke-linejoin:round" />
+    <text
+       id="text1004"
+       y="188.97719"
+       x="24.647171"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="188.97719"
+         x="24.647171"
+         id="tspan1002"
+         sodipodi:role="line">15%  Chloroqine</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1008"
+       d="m 26.082414,246.68819 53.263939,0.29814"
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
+    <rect
+       ry="0.74319869"
+       y="243.01944"
+       x="39.99015"
+       height="3.1273596"
+       width="2.7909486"
+       id="rect1304"
+       style="fill:#b7c4c8;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="0.74319869"
+       y="238.19798"
+       x="44.005402"
+       height="7.9057903"
+       width="3.2764149"
+       id="rect1312"
+       style="fill:#b7c4c8;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="0.74319869"
+       y="234.20917"
+       x="48.451187"
+       height="11.974288"
+       width="2.8717806"
+       id="rect1314"
+       style="fill:#b7c4c8;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="0.74319869"
+       y="238.66727"
+       x="52.321293"
+       height="7.2491255"
+       width="3.7439673"
+       id="rect1316"
+       style="fill:#b7c4c8;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="0.74319869"
+       y="239.19643"
+       x="56.594429"
+       height="6.7925839"
+       width="3.9552455"
+       id="rect1318"
+       style="fill:#b7c4c8;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="0.47373429"
+       y="241.27248"
+       x="61.078842"
+       height="4.5801072"
+       width="4.2404823"
+       id="rect1320"
+       style="fill:#b7c4c8;fill-opacity:1;stroke:none;stroke-width:0.319356;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="0.74319869"
+       y="241.67435"
+       x="66.573273"
+       height="4.2655735"
+       width="2.8915882"
+       id="rect1322"
+       style="fill:#b7c4c8;fill-opacity:1;stroke:none;stroke-width:0.454905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text1332"
+       y="180.399"
+       x="64.01741"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="180.399"
+         x="64.01741"
+         id="tspan1330"
+         sodipodi:role="line">85%<tspan
+   id="tspan1790"
+   style="font-size:2.11667px"> out of 40</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="64.01741"
+       y="188.3364"
+       id="text1336"><tspan
+         sodipodi:role="line"
+         id="tspan1334"
+         x="64.01741"
+         y="188.3364"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583">81%<tspan
+   id="tspan1794"
+   style="font-size:0.352778px"> </tspan><tspan
+   id="tspan1792"
+   style="font-size:2.46944px">out of 20</tspan></tspan></text>
+    <text
+       id="text1340"
+       y="210.89171"
+       x="23.714239"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="210.89171"
+         x="23.714239"
+         id="tspan1338"
+         sodipodi:role="line">14% trombosis</tspan></text>
+    <text
+       id="text1344"
+       y="216.69611"
+       x="24.439432"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="216.69611"
+         x="24.439432"
+         id="tspan1342"
+         sodipodi:role="line">9% cardiatic arrest</tspan></text>
+    <text
+       id="text1348"
+       y="221.91623"
+       x="24.193089"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="221.91623"
+         x="24.193089"
+         id="tspan1346"
+         sodipodi:role="line">3% acute ....</tspan></text>
+    <text
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;shape-inside:url(#rect1418);white-space:pre;"
+       id="text1416"
+       xml:space="preserve" />
+    <rect
+       style="fill:#b7c4c8;fill-opacity:1;stroke:none;stroke-width:4.69411;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1428"
+       width="66.15007"
+       height="17.522789"
+       x="131.05446"
+       y="155.78781"
+       ry="3.6689126" />
+    <text
+       id="text1432"
+       y="164.21198"
+       x="137.36818"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="164.21198"
+         x="137.36818"
+         id="tspan1430"
+         sodipodi:role="line">54-60 years, A2.12 B3.13</tspan></text>
+    <rect
+       ry="1.9164088"
+       y="155.78781"
+       x="131.05446"
+       height="108.92473"
+       width="66.828102"
+       id="rect1436"
+       style="fill:none;stroke:#000000;stroke-width:3.96897;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="1.975341"
+       y="257.57324"
+       x="130.8524"
+       height="7.1106014"
+       width="67.001472"
+       id="rect1438"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.9284;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       ry="3.8553212"
+       rx="3.9524021"
+       cy="261.27554"
+       cx="163.84216"
+       id="ellipse1440"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.87101;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="136.57204"
+       y="231.93158"
+       id="text1450"><tspan
+         sodipodi:role="line"
+         id="tspan1448"
+         x="136.57204"
+         y="231.93158"
+         style="stroke-width:0.264583">hospital time |<tspan
+   style="font-weight:bold"
+   id="tspan1446"> <tspan
+   id="tspan2052"
+   style="fill:#162d50">ICU time</tspan></tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="134.56662"
+       y="204.21783"
+       id="text1454"><tspan
+         sodipodi:role="line"
+         id="tspan1452"
+         x="134.56662"
+         y="204.21783"
+         style="font-weight:bold;fill:#162d50;stroke-width:0.264583">Common complications</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="135.38919"
+       y="254.63649"
+       id="text1462"><tspan
+         sodipodi:role="line"
+         id="tspan1460"
+         x="135.38919"
+         y="254.63649"
+         style="stroke-width:0.264583">avr:12d   avg. survival:85%</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1512)"
+       d="m 137.74532,246.53367 53.26394,0.29814"
+       id="path1474"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#b7c4c8;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1476"
+       width="2.7909486"
+       height="3.1273596"
+       x="149.53632"
+       y="242.86493"
+       ry="0.74319869" />
+    <rect
+       style="fill:#b7c4c8;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1478"
+       width="3.2764149"
+       height="7.9057903"
+       x="153.55157"
+       y="238.04347"
+       ry="0.74319869" />
+    <rect
+       style="fill:#b7c4c8;fill-opacity:1;stroke:none;stroke-width:0.331689;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1480"
+       width="2.8717806"
+       height="8.2336493"
+       x="157.99736"
+       y="237.7953"
+       ry="0.51103139" />
+    <rect
+       style="fill:#b7c4c8;fill-opacity:1;stroke:none;stroke-width:0.433039;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1482"
+       width="3.7439673"
+       height="8.4961052"
+       x="161.86746"
+       y="237.26578"
+       ry="0.87104219" />
+    <rect
+       style="fill:#b7c4c8;fill-opacity:1;stroke:none;stroke-width:0.334087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1484"
+       width="3.9552455"
+       height="4.7384362"
+       x="166.14059"
+       y="241.09607"
+       ry="0.5184477" />
+    <rect
+       style="fill:#b7c4c8;fill-opacity:1;stroke:none;stroke-width:0.339149;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1488"
+       width="2.8915882"
+       height="2.3709199"
+       x="171.88617"
+       y="243.41449"
+       ry="0.41308975" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="135.37704"
+       y="211.79552"
+       id="text1500"><tspan
+         sodipodi:role="line"
+         id="tspan1498"
+         x="135.37704"
+         y="211.79552"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583">10% trombosis</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="136.10223"
+       y="217.59991"
+       id="text1504"><tspan
+         sodipodi:role="line"
+         id="tspan1502"
+         x="136.10223"
+         y="217.59991"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583">7% cardiatic arrest</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="135.8559"
+       y="222.82004"
+       id="text1508"><tspan
+         sodipodi:role="line"
+         id="tspan1506"
+         x="135.8559"
+         y="222.82004"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583">1% alergic reaction ....</tspan></text>
+    <text
+       id="text1760"
+       y="170.35831"
+       x="136.90855"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="170.35831"
+         x="136.90855"
+         id="tspan1758"
+         sodipodi:role="line">Treatmant: Azitromicin</tspan></text>
+    <rect
+       ry="0.74319834"
+       y="180.13843"
+       x="134.69235"
+       height="6.3122563"
+       width="40.204628"
+       id="rect1762"
+       style="fill:#ffccaa;stroke-width:0.438669;stroke-linecap:round;stroke-linejoin:round" />
+    <text
+       id="text1766"
+       y="185.02325"
+       x="135.91531"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="185.02325"
+         x="135.91531"
+         id="tspan1764"
+         sodipodi:role="line">3mg azitromicin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="134.18504"
+       y="178.13744"
+       id="text1770"><tspan
+         sodipodi:role="line"
+         id="tspan1768"
+         x="134.18504"
+         y="178.13744"
+         style="font-weight:bold;fill:#162d50;stroke-width:0.264583">Dose</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="175.24998"
+       y="177.92737"
+       id="text1774"><tspan
+         sodipodi:role="line"
+         id="tspan1772"
+         x="175.24998"
+         y="177.92737"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583">Survival:</tspan></text>
+    <rect
+       style="fill:#ffccaa;stroke-width:0.438669;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1776"
+       width="40.204628"
+       height="6.3122563"
+       x="134.69235"
+       y="188.07582"
+       ry="0.74319834" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="135.91531"
+       y="192.96065"
+       id="text1780"><tspan
+         sodipodi:role="line"
+         id="tspan1778"
+         x="135.91531"
+         y="192.96065"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583">azitromicin + 1mg zink</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="175.81482"
+       y="184.91162"
+       id="text1784"><tspan
+         sodipodi:role="line"
+         id="tspan1782"
+         x="175.81482"
+         y="184.91162"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583">82%<tspan
+   id="tspan1796"
+   style="font-size:2.11667px"> out of 29</tspan></tspan></text>
+    <text
+       id="text1788"
+       y="192.84901"
+       x="175.81482"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="192.84901"
+         x="175.81482"
+         id="tspan1786"
+         sodipodi:role="line">89%<tspan
+   id="tspan1798"
+   style="font-size:2.11667px">out of 11</tspan></tspan></text>
+    <text
+       id="text1802"
+       y="99.665794"
+       x="36.371254"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="99.665794"
+         x="36.371254"
+         id="tspan1800"
+         sodipodi:role="line">treatmant search box</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1804"
+       d="m 51.974342,133.41275 v 16.56578"
+       style="fill:none;stroke:#000000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1808);stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1864"
+       d="m 94.538798,212.6734 27.613072,-0.21971"
+       style="fill:none;stroke:#000000;stroke-width:0.865;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1868)" />
+    <text
+       id="text1944"
+       y="141.28078"
+       x="54.377926"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="141.28078"
+         x="54.377926"
+         id="tspan1942"
+         sodipodi:role="line">exchange with server</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="90.227356"
+       y="206.81978"
+       id="text1948"><tspan
+         sodipodi:role="line"
+         id="tspan1946"
+         x="90.227356"
+         y="206.81978"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583">exchange with server</tspan></text>
+    <text
+       id="text2060"
+       y="10.289703"
+       x="15.970037"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="10.289703"
+         x="15.970037"
+         id="tspan2058"
+         sodipodi:role="line">Solution outline</tspan></text>
+    <rect
+       style="fill:#ffccaa;stroke-width:0.438669;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2068"
+       width="40.204628"
+       height="6.3122563"
+       x="22.89505"
+       y="190.97144"
+       ry="0.74319834" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="24.647171"
+       y="196.38542"
+       id="text2072"><tspan
+         sodipodi:role="line"
+         id="tspan2070"
+         x="24.647171"
+         y="196.38542"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583">150%  Some drug</tspan></text>
+    <text
+       id="text2080"
+       y="195.74463"
+       x="64.01741"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="195.74463"
+         x="64.01741"
+         id="tspan2078"
+         sodipodi:role="line">81%<tspan
+   style="font-size:0.352778px"
+   id="tspan2074"> </tspan><tspan
+   style="font-size:2.46944px"
+   id="tspan2076">out of 20</tspan></tspan></text>
+    <text
+       id="text2084"
+       y="56.328243"
+       x="96.541061"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan2174"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="56.328243"
+         x="96.541061"
+         sodipodi:role="line">1. Doctor selects specific patient group</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="56.980789"
+       y="279.05347"
+       id="text2088"><tspan
+         sodipodi:role="line"
+         id="tspan2086"
+         x="56.980789"
+         y="279.05347"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;text-anchor:middle;stroke-width:0.264583">2. Doctor clicks on treatmant strategy</tspan><tspan
+         id="tspan2090"
+         sodipodi:role="line"
+         x="56.980789"
+         y="285.80093"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;text-anchor:middle;stroke-width:0.264583">&quot;Azitromicin&quot; to see subgroup situation</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text2094"
+       y="8.1355162"
+       x="-237.55214"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="8.1355162"
+         x="-237.55214"
+         id="tspan2092"
+         sodipodi:role="line">Complications higlight</tspan><tspan
+         id="tspan2096"
+         style="stroke-width:0.264583"
+         y="12.545241"
+         x="-237.55214"
+         sodipodi:role="line">what to keep eyes open for</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text2100"
+       y="204.78302"
+       x="-264.13364"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan2102"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="204.78302"
+         x="-264.13364"
+         sodipodi:role="line">Data is now reflecting only subgroup with azitromicin</tspan></text>
+    <image
+       id="image2166"
+       xlink:href="data:image/png;base64,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
+"
+       preserveAspectRatio="none"
+       height="19.402779"
+       width="116.06389"
+       x="94.638466"
+       y="-0.091589808" />
+    <text
+       id="text2172"
+       y="149.57671"
+       x="137.08348"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.264583"
+         y="149.57671"
+         x="137.08348"
+         id="tspan2170"
+         sodipodi:role="line">clicking on header goes back</tspan></text>
+  </g>
+</svg>
