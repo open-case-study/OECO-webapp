@@ -13,7 +13,7 @@ Visual overview of the structure
 3. [Submission sketch](https://test.opencasestudy.eu/icd10_search_test.html)
 4. [Search case sketch](./design/overview_search_case.pdf)
 5. API Big tada page sketch
-6. Database overview
+6. [Database overview](./design/overview_database.pdf)
 
 Input needed
 ------------
