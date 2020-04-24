@@ -8,7 +8,12 @@ General project description on [devpost](https://devpost.com/software/open-europ
 Visual overview of the structure
 --------------------------------
 
-![OECO_overview](./design/overview.png)
+1. [Birth eye view of project](./design/overview.pdf)
+2. [Front page sketch](https://test.opencasestudy.eu)
+3. [Submission sketch](https://test.opencasestudy.eu/icd10_search_test.html)
+4. [Search case sketch](./design/overview_search_case.pdf)
+5. API Big tada page sketch
+6. Database overview
 
 Input needed
 ------------
