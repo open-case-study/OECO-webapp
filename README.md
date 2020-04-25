@@ -30,17 +30,17 @@ STRUCTURE
 * agree which data should be indexed for quick queries - done
 * agree on user registration
 * agree on structure of database - done
-* agree on structure of JSON exchanged between front end and back end
+* agree on structure of JSON exchanged between front end and back end - done
 * agree on general layout -done
 
 FUNCTIONALITY
 
 * landing page - done
 * front end input form  --- data input +  - done
-* front end retrival form (for medical doctors) - partially done
-* front end retrival info (for data scientists)
-* back end - database
-* back end - queries from front end
+* front end retrival form (for medical doctors) - done partially
+* front end retrival info (for data scientists) - done
+* back end - database - done
+* back end - queries from front end -  done partially
 
 FEEL
 
