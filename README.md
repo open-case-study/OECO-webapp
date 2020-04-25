@@ -26,18 +26,18 @@ Tasks
 
 STRUCTURE
 
-* agree on input data required
-* agree which data should be indexed for quick queries
+* agree on input data required - done
+* agree which data should be indexed for quick queries - done
 * agree on user registration
-* agree on structure of database
+* agree on structure of database - done
 * agree on structure of JSON exchanged between front end and back end
-* agree on general layout
+* agree on general layout -done
 
 FUNCTIONALITY
 
-* landing page
-* front end input form  --- data input + 
-* front end retrival form (for medical doctors)
+* landing page - done
+* front end input form  --- data input +  - done
+* front end retrival form (for medical doctors) - partially done
 * front end retrival info (for data scientists)
 * back end - database
 * back end - queries from front end
