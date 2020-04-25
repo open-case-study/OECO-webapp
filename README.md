@@ -8,7 +8,7 @@ General project description on [devpost](https://devpost.com/software/open-europ
 Visual overview of the structure
 --------------------------------
 
-1. [Birth eye view of project](./design/overview.pdf)
+1. [Bird's eye view of project](./design/overview.pdf)
 2. [Front page sketch](https://test.opencasestudy.eu)
 3. [Submission sketch](https://test.opencasestudy.eu/icd10_search_test.html)
 4. [Search case sketch](./design/overview_search_case.pdf)
