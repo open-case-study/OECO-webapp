@@ -30,7 +30,7 @@ STRUCTURE
 
 * agree on input data required - done
 * agree which data should be indexed for quick queries - done
-* agree on user registration
+* agree on user registration - done
 * agree on structure of database - done
 * agree on structure of JSON exchanged between front end and back end - done
 * agree on general layout -done
