@@ -39,15 +39,15 @@ FUNCTIONALITY
 
 * landing page - done
 * front end input form  --- data input +  - done
-* front end retrival form (for medical doctors) - done partially
+* front end retrival form (for medical doctors) - done 
 * front end retrival info (for data scientists) - done
 * back end - database - done
-* back end - queries from front end -  done partially
+* back end - queries from front end -  done 
 
 FEEL
 
-* front end input form  --- make good design
-* front end retrival form (for medical doctors) --- make good design
+* front end input form  --- make good design - done
+* front end retrival form (for medical doctors) --- make good design - done
 
 
 Building blocks needed
